@@ -11,6 +11,6 @@ function readAndProcessFile(file_name){
     });
 }
 
-const file_name = 'text.txt'
+const file_name = 'text.txt';
 
 readAndProcessFile(file_name);
