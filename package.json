@@ -1,0 +1,24 @@
+{
+  "name": "cohort_assignments",
+  "version": "1.0.0",
+  "description": "for assignments of cohort",
+  "main": "index.js",
+  "scripts": {
+    "test": "to be dtermined"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harishraj16/Cohort_assignments.git"
+  },
+  "keywords": [
+    "cohort",
+    "assignments",
+    "JS"
+  ],
+  "author": "Harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harishraj16/Cohort_assignments/issues"
+  },
+  "homepage": "https://github.com/Harishraj16/Cohort_assignments#readme"
+}
