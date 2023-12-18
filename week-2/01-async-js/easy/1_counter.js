@@ -29,3 +29,25 @@ process.stdin.on('data',(key)=>{
 
 updateCounter();
 console.log('Press "+" to increment, "-" to decrement, and "Q" to quit');
+
+
+
+/*
+
+let count = 30;
+
+
+function counter(){
+    console.clear();
+    console.log("Count: "+count);
+    count--;
+
+    if(count<0){
+        clearInterval(intervalId);
+    }
+}
+
+const intervalId = setInterval(counter,1000);
+
+
+*/
